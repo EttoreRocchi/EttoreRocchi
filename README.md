@@ -24,7 +24,7 @@ I am dedicated to developing robust, interpretable, and reproducible pipelines f
 ## Featured Projects  
 - [EttoreRocchi/combatlearn](https://github.com/EttoreRocchi/combatlearn) - a scikit-learn compatible **ComBat** algorithm for batch-effect correction
 - [EttoreRocchi/ResPredAI](https://github.com/EttoreRocchi/ResPredAI) - implementation of the **antimicrobial resistance** prediction pipeline described in the work "Artificial Intelligence model to predict resistances in Gram-negative bloodstream infections" by _Bonazzetti et al._
-- [Physics4MedicineLab/CAMISIM-BrokenStick]() - broken stick model implementation for the _de novo_ modality of [CAMISIM](https://github.com/CAMI-challenge/CAMISIM)
+- [Physics4MedicineLab/CAMISIM-BrokenStick](https://github.com/Physics4MedicineLab/CAMISIM-BrokenStick) - broken stick model implementation for the _de novo_ modality of [CAMISIM](https://github.com/CAMI-challenge/CAMISIM)
 
 ## Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/ettore-rocchi/)  
