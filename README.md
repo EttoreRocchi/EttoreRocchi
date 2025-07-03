@@ -10,11 +10,11 @@
 </p>
 
 ## About Me  
-I'm a PhD student at the Department of Medical and Surgical Sciences of the University of Bologna (Italy).
-I am a physicist currently specializing in genomics, metagenomics, and mass spectrometry.  
-My work sits at the intersection of machine learning and biomedicine with a particular emphasis on developing models and computational tools for high-dimensional biomedical data analysis.
+I am a PhD student at the Department of Medical and Surgical Sciences of the University of Bologna (Italy).
+I am a physicist currently studying genomics, metagenomics, and mass spectrometry.  
+My work sits at the intersection of machine learning and biomedicine, specifically focusing on the development of models and computational tools for analyzing high-dimensional biomedical data.
 
-I am dedicated to developing robust, interpretable, and reproducible pipelines focused on *omics* data, with the aim of addressing clinical and biological challenges through data-driven methodologies.
+I am interested in designing reliable, interpretable and reproducible pipelines in the field of _omics_ data, aimed at providing data driven solutions for biological and clinical problem solving.
 
 ## Main Interests  
 - Genomics & Metagenomics - analysis of microbiomes and complex genomic profiles
