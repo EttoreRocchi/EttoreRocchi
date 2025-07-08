@@ -2,13 +2,13 @@
 
 <div align="left">
 
-  <a href="https://github.com/ettorerocchi" style="margin-right: 10px;">
+  <a href="https://github.com/ettorerocchi">
     <img src="https://img.shields.io/github/followers/ettorerocchi?label=Followers&style=social" alt="GitHub followers">
   </a>
-  <a href="https://www.linkedin.com/in/ettore-rocchi/" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/ettore-rocchi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://scholar.google.com/citations?user=MKHoGnQAAAAJ" style="margin-right: 10px;">
+  <a href="https://scholar.google.com/citations?user=MKHoGnQAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-100000?style=flat&logo=Google-Scholar&logoColor=white&labelColor=blue" alt="Google Scholar">
   </a>
   <a href="https://www.scopus.com/authid/detail.uri?authorId=57220152522">
@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a PhD student at the Department of Medical and Surgical Sciences, University of Bologna (Italy). With a background in Physics, I now work at the intersection of **machine learning** and **biomedicine**, focusing on:
+I am a PhD student at the Department of Medical and Surgical Sciences, University of Bologna (Italy). I am also part of the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola hospital (Bologna, Italy). With a background in Physics, I now work at the intersection of **machine learning** and **biomedicine**, focusing on:
 
 - Genomics & metagenomics
 - Mass spectrometry
