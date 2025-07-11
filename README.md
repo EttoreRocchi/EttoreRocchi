@@ -1,22 +1,12 @@
 # Hi, I'm [Ettore](https://github.com/ettorerocchi)!
 
+[![GitHub followers](https://img.shields.io/github/followers/ettorerocchi?label=Followers&style=social)](https://github.com/ettorerocchi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ettore-rocchi/) 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-100000?style=flat&logo=Google-Scholar&logoColor=white&labelColor=blue)](https://scholar.google.com/citations?user=MKHoGnQAAAAJ) 
+[![Scopus](https://img.shields.io/badge/Scopus-Elsevier-orange)](https://www.scopus.com/authid/detail.uri?authorId=57220152522)
+
 <div align="left">
-
-  <a href="https://github.com/ettorerocchi">
-    <img src="https://img.shields.io/github/followers/ettorerocchi?label=Followers&style=social" alt="GitHub followers">
-  </a>
-  <a href="https://www.linkedin.com/in/ettore-rocchi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://scholar.google.com/citations?user=MKHoGnQAAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-100000?style=flat&logo=Google-Scholar&logoColor=white&labelColor=blue" alt="Google Scholar">
-  </a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=57220152522">
-    <img src="https://img.shields.io/badge/Scopus-Elsevier-orange" alt="Scopus">
-  </a>
-  <br><br>
   <img src="https://media1.tenor.com/m/p4bVBy2jTB8AAAAd/lost-numbers.gif" width="400" alt="Lost Numbers GIF">
-
 </div>
 
 
