@@ -56,6 +56,18 @@ My aim is to develop **interpretable**, **reproducible**, and **scalable** pipel
   </tr>
   <tr>
     <td style="padding:10px">
+      <a href="https://github.com/Physics4MedicineLab/CATS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Physics4MedicineLab&repo=CATS&title_color=007BFF&icon_color=007BFF&text_color=cccccc&bg_color=1a1a1a" alt="CATS">
+      </a>
+    </td>
+    <td style="padding:10px; color:#cccccc;">
+      <b><a href="https://github.com/Physics4MedicineLab/CATS" style="color:#007BFF;">CATS</a></b>  
+      <br>A tool to compare Cas9 nucleases by detecting overlapping PAM sites and enabling allele-specific targeting of disease mutations, with ClinVar integration and a user-friendly interface.  
+      <br><em> </em>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:10px">
       <a href="https://github.com/EttoreRocchi/ResPredAI">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=EttoreRocchi&repo=ResPredAI&title_color=007BFF&icon_color=007BFF&text_color=cccccc&bg_color=1a1a1a" alt="ResPredAI">
       </a>
@@ -80,6 +92,8 @@ My aim is to develop **interpretable**, **reproducible**, and **scalable** pipel
   </tr>
 </table>
 
+## Organization
+I am a member of the [Physics4MedicineLab](https://github.com/Physics4MedicineLab), the Applied Physics group within the Department of Medicine at Alma Mater Studiorum - University of Bologna.
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/ettore-rocchi/)  
