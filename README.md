@@ -90,6 +90,19 @@ My aim is to develop **interpretable**, **reproducible**, and **scalable** pipel
       <br><em>Enables simulation of metagenomic data with controllable evolutionary dynamics of microbial communities.</em>
     </td>
   </tr>
+  <tr>
+  <td style="padding:10px">
+    <a href="https://github.com/Physics4MedicineLab/APOBECSeeker">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Physics4MedicineLab&repo=APOBECSeeker&title_color=007BFF&icon_color=007BFF&text_color=cccccc&bg_color=1a1a1a" alt="APOBECSeeker">
+    </a>
+  </td>
+  <td style="padding:10px; color:#cccccc;">
+    <b><a href="https://github.com/Physics4MedicineLab/APOBECSeeker" style="color:#007BFF;">APOBECSeeker</a></b>  
+    <br>Pipeline for the identification of APOBEC-style mutations from multiple sequence alignment.
+    <br><em><a href="https://doi.org/10.1038/s41598-025-11855-5" style="color:#cccccc;">Understanding the evolutionary dynamics of Monkeypox virus through less explored pathways</a> by De Pascali et al. (2025).</em>
+  </td>
+</tr>
+
 </table>
 
 ## Organization
