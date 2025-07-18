@@ -56,6 +56,17 @@ My aim is to develop **interpretable**, **reproducible**, and **scalable** pipel
   </tr>
   <tr>
     <td style="padding:10px">
+      <a href="https://github.com/EttoreRocchi/MaldiAMRKit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=EttoreRocchi&repo=MaldiAMRKit&title_color=007BFF&icon_color=007BFF&text_color=cccccc&bg_color=1a1a1a" alt="MaldiAMRKit">
+      </a>
+    </td>
+    <td style="padding:10px; color:#cccccc;">
+      <b><a href="https://github.com/EttoreRocchi/MaldiAMRKit" style="color:#007BFF;">MaldiAMRKit</a></b>  
+      <br>Toolkit to read and preprocess MALDI-TOF mass spectra for AMR analyses.
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:10px">
       <a href="https://github.com/Physics4MedicineLab/CATS">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Physics4MedicineLab&repo=CATS&title_color=007BFF&icon_color=007BFF&text_color=cccccc&bg_color=1a1a1a" alt="CATS">
       </a>
