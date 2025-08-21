@@ -73,8 +73,8 @@ My aim is to develop **interpretable**, **reproducible**, and **scalable** pipel
     </td>
     <td style="padding:10px; color:#cccccc;">
       <b><a href="https://github.com/Physics4MedicineLab/CATS" style="color:#007BFF;">CATS</a></b>  
-      <br>A tool to compare Cas9 nucleases by detecting overlapping PAM sites and enabling allele-specific targeting of disease mutations, with ClinVar integration and a user-friendly interface.  
-      <br><em> </em>
+      <br>A tool to compare Cas9 nucleases by detecting overlapping PAM sites and enabling allele-specific targeting of disease mutations, with ClinVar integration and a user-friendly interface.
+      <br><em><a href="https://doi.org/10.3389/fgeed.2025.1571023" style="color:#cccccc;">CATS: a bioinformatic tool for automated Cas9 nucleases activity comparison in clinically relevant contexts</a> by Rocchi et al. (2025).</em>
     </td>
   </tr>
   <tr>
