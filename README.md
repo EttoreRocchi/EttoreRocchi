@@ -23,20 +23,20 @@ My aim is to develop **interpretable**, **reproducible**, and **scalable** pipel
 
 ## 🔬 Research Interests
 
-- **Mass Spectrometry**  
-  Machine learning methods for predicting antimicrobial resistance from MALDI-TOF mass spectra.
-
-- **Metagenomics**  
-  Microbiome profiling, simulation of microbial communities, and pathogen detection from complex environmental or clinical samples.
-
-- **Genomics**  
-  Analysis of structural variants and APOBEC-style mutations; computational approaches to CRISPR genome editing.
-
 - **Machine Learning & Deep Learning in Biomedicine**  
   Feature engineering, multi-omics integration, and development of interpretable, generalizable models for clinical and biological prediction tasks.
 
 - **Algorithms & Models for Biomedical Data**  
   Development of computational algorithms, statistical models, and network-based approaches to simulate, analyze, and interpret biological systems.
+
+- **Mass Spectrometry**  
+  Machine learning methods for predicting antimicrobial resistance from MALDI-TOF mass spectra.
+
+- **Metagenomics**  
+  Advanced biostatistical analysis and network-based modeling of complex microbial communities for microbiome profiling, community simulation, and pathogen detection from environmental and clinical samples.
+
+- **Genomics**  
+  Computational and machine learning approaches for analyzing structural variants and APOBEC-style mutations; computational approaches to CRISPR genome editing.
 
 
 ## 🔧 Featured Projects  
