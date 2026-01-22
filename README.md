@@ -7,16 +7,9 @@
 
 ## 🧑‍💻 About Me
 
-I am a PhD student at the Department of Medical and Surgical Sciences, University of Bologna (Italy). I am also part of the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola hospital (Bologna, Italy). With a background in Physics, I now work at the intersection of **machine learning** and **biomedicine**, focusing on:
+I am a PhD student at the Department of Medical and Surgical Sciences, University of Bologna (Italy). I am also part of the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola hospital (Bologna, Italy). With a background in Physics, I now work at the intersection of **machine learning** and **biomedicine**, developing **interpretable**, **reproducible**, and **scalable** pipelines for _omics_ data analysis.
 
-- Mass spectrometry
-- Genomics & metagenomics
-- High-dimensional data analysis and integration
-
-My aim is to develop **interpretable**, **reproducible**, and **scalable** pipelines in the field of _omics_ data, providing data-driven solutions for biological and clinical problem solving.
-
-
-## 🔬 Research Interests
+### Methodological Focus
 
 <details>
 <summary><b>Machine Learning & Deep Learning in Biomedicine</b></summary>
@@ -27,6 +20,8 @@ Feature engineering, multi-omics integration, and development of interpretable, 
 <summary><b>Algorithms & Models for Biomedical Data</b></summary>
 Development of computational algorithms, statistical models, and network-based approaches to simulate, analyze, and interpret biological systems.
 </details>
+
+### Application Domains
 
 <details>
 <summary><b>Mass Spectrometry</b></summary>
@@ -48,11 +43,11 @@ Computational and machine learning approaches for analyzing structural variants 
 
 - **[combatlearn](https://github.com/EttoreRocchi/combatlearn)** — Scikit-learn compatible implementation of the `ComBat` algorithm for batch effect correction in high-dimensional data. *Useful for harmonizing high-throughput data across studies.*
 
+- **[ResPredAI](https://github.com/EttoreRocchi/ResPredAI)** — Machine learning pipeline for predicting antimicrobial resistance from demographic and clinical data. *[Artificial Intelligence model to predict resistances in Gram-negative bloodstream infections](https://doi.org/10.1038/s41746-025-01696-x) by Bonazzetti et al. (2025).*
+
 - **[MaldiAMRKit](https://github.com/EttoreRocchi/MaldiAMRKit)** — Toolkit to read and preprocess MALDI-TOF mass spectra for AMR analyses.
 
 - **[CATS](https://github.com/Physics4MedicineLab/CATS)** — A tool to compare Cas9 nucleases by detecting overlapping PAM sites and enabling allele-specific targeting of disease mutations, with ClinVar integration and a user-friendly interface. *[CATS: a bioinformatic tool for automated Cas9 nucleases activity comparison in clinically relevant contexts](https://doi.org/10.3389/fgeed.2025.1571023) by Rocchi et al. (2025).*
-
-- **[ResPredAI](https://github.com/EttoreRocchi/ResPredAI)** — Machine learning pipeline for predicting antimicrobial resistance from demographic and clinical data. *[Artificial Intelligence model to predict resistances in Gram-negative bloodstream infections](https://doi.org/10.1038/s41746-025-01696-x) by Bonazzetti et al. (2025).*
 
 - **[CAMISIM-BrokenStick](https://github.com/Physics4MedicineLab/CAMISIM-BrokenStick)** — Extension of `CAMISIM` to simulate metagenomic sequencing data using a broken stick model. *Enables simulation of metagenomic data with controllable evolutionary dynamics of microbial communities.*
 
