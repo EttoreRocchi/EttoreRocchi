@@ -38,6 +38,8 @@ I'm a PhD student at the University of Bologna with a background in Physics. I w
 
 - **[phenocluster](https://github.com/EttoreRocchi/phenocluster)** - Framework for unsupervised discovery of clinical phenotypes from heterogeneous patient data, with survival and multistate modeling.
 
+- **[nestkit](https://github.com/EttoreRocchi/nestkit)** - Nested cross-validation toolkit for scikit-learn, with integrated calibration, threshold optimization, and statistical comparison tools.
+
 - **[CATS](https://github.com/Physics4MedicineLab/CATS)** - Compare Cas9 nucleases by detecting overlapping PAM sites and enabling allele-specific targeting of disease mutations, with ClinVar integration.
 
 - **[CAMISIM-BrokenStick](https://github.com/Physics4MedicineLab/CAMISIM-BrokenStick)** - Extension of `CAMISIM` to simulate metagenomic sequencing data using a broken stick model.
