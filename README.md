@@ -1,15 +1,30 @@
-# Hi, I'm [Ettore](https://github.com/ettorerocchi)!
+# Ettore Rocchi
 
-**PhD student building interpretable ML pipelines for omics data analysis.**
+## About me
 
-[![GitHub followers](https://img.shields.io/github/followers/ettorerocchi?label=Followers&style=social)](https://github.com/ettorerocchi)
+Physics background, biomedical mission. I'm a PhD student at the University of Bologna, where I build tools that help clinicians predict antimicrobial resistance, discover patient phenotypes, and make sense of high-dimensional omics data. My work spans MALDI-TOF mass spectrometry, multi-omics integration, and metagenomics, always with a focus on interpretability and clinical impact. Part of the [Physics4MedicineLab](https://github.com/Physics4MedicineLab) group and the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola Hospital.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ettore-rocchi/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-100000?style=flat&logo=Google-Scholar&logoColor=white&labelColor=blue)](https://scholar.google.com/citations?user=MKHoGnQAAAAJ)
-[![Scopus](https://img.shields.io/badge/Scopus-Elsevier-orange)](https://www.scopus.com/authid/detail.uri?authorId=57220152522)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=MKHoGnQAAAAJ)
+[![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57220152522)
+[![University](https://img.shields.io/badge/UniBO-Profile-A6192E?style=flat)](https://www.unibo.it/sitoweb/ettore.rocchi3)
+[![Email](https://img.shields.io/badge/Email-ettore.rocchi3%40unibo.it-grey?style=flat&logo=gmail&logoColor=white)](mailto:ettore.rocchi3@unibo.it)
 
-## About Me
+### GitHub Stats
 
-I'm a PhD student at the University of Bologna with a background in Physics. I work at the intersection of **machine learning** and **biomedicine**, building **interpretable**, **reproducible**, and **scalable** pipelines for *omics* data analysis. I'm part of the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola Hospital in Bologna.
+[![GitHub followers](https://img.shields.io/github/followers/ettorerocchi?style=social)](https://github.com/ettorerocchi)
+[![GitHub stars](https://img.shields.io/github/stars/ettorerocchi?style=social)](https://github.com/ettorerocchi)
+
+---
+
+### What I Work On
+
+| Area | Focus |
+|------|-------|
+| **ML in Biomedicine** | Interpretable models, feature engineering, multi-omics integration |
+| **Mass Spectrometry** | Predicting antimicrobial resistance from MALDI-TOF spectra |
+| **Metagenomics** | Network-based microbial community modeling and pathogen detection |
+| **Genomics** | APOBEC mutations, structural variants, CRISPR genome editing tools |
 
 ### Tech Stack
 
@@ -20,49 +35,40 @@ I'm a PhD student at the University of Bologna with a background in Physics. I w
 ![Snakemake](https://img.shields.io/badge/Snakemake-3B8526?style=flat&logo=snakemake&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat&logo=nextflow&logoColor=white)
 
-### What I Work On
+---
 
-- **ML & Deep Learning in Biomedicine** - Feature engineering, multi-omics integration, and interpretable models for clinical and biological prediction tasks
-- **Algorithms for Biomedical Data** - Building computational tools, statistical models, and network-based approaches to simulate and analyze biological systems
-- **Mass Spectrometry** - ML methods for predicting antimicrobial resistance from MALDI-TOF mass spectra
-- **Metagenomics** - Network-based modeling of microbial communities for microbiome profiling, simulation, and pathogen detection
-- **Genomics** - Analyzing structural variants, APOBEC-style mutations, and computational approaches to CRISPR genome editing
+### Flagship Projects
 
-## Featured Projects
+<p>
+  <a href="https://github.com/EttoreRocchi/MaldiAMRKit">
+    <img src="https://socialify.git.ci/EttoreRocchi/MaldiAMRKit/image?description=1&language=1&stargazers=1&forks=1&pattern=Signal&theme=Light" width="300" alt="MaldiAMRKit" />
+  </a>
+  <a href="https://github.com/EttoreRocchi/combatlearn">
+    <img src="https://socialify.git.ci/EttoreRocchi/combatlearn/image?description=1&language=1&stargazers=1&forks=1&pattern=Signal&theme=Light" width="300" alt="combatlearn" />
+  </a>
+  <a href="https://github.com/EttoreRocchi/ResPredAI">
+    <img src="https://socialify.git.ci/EttoreRocchi/ResPredAI/image?description=1&language=1&stargazers=1&forks=1&pattern=Signal&theme=Light" width="300" alt="ResPredAI" />
+  </a>
+</p>
 
-- **[combatlearn](https://github.com/EttoreRocchi/combatlearn)** - Scikit-learn compatible `ComBat` for batch effect correction in high-dimensional data. Useful for harmonizing data across studies.
+### More Projects
 
-- **[ResPredAI](https://github.com/EttoreRocchi/ResPredAI)** - ML pipeline for predicting antimicrobial resistance from demographic and clinical data.
+| Project | Description |
+|---------|-------------|
+| [phenocluster](https://github.com/EttoreRocchi/phenocluster) | Unsupervised clinical phenotype discovery with survival and multistate modeling |
+| [CATS](https://github.com/Physics4MedicineLab/CATS) | Automated Cas9 nuclease comparison with ClinVar integration |
+| [CAMISIM-BrokenStick](https://github.com/Physics4MedicineLab/CAMISIM-BrokenStick) | Broken stick model extension for metagenomic simulation |
+| [APOBECSeeker](https://github.com/Physics4MedicineLab/APOBECSeeker) | APOBEC-style mutation identification from multiple sequence alignment |
+| [nestkit](https://github.com/EttoreRocchi/nestkit) | Nested cross-validation with calibration, threshold optimization, and statistical tests |
 
-- **[MaldiAMRKit](https://github.com/EttoreRocchi/MaldiAMRKit)** - Toolkit to read and preprocess MALDI-TOF mass spectra for AMR analyses.
+---
 
-- **[phenocluster](https://github.com/EttoreRocchi/phenocluster)** - Framework for unsupervised discovery of clinical phenotypes from heterogeneous patient data, with survival and multistate modeling.
+### Selected Publications
 
-- **[nestkit](https://github.com/EttoreRocchi/nestkit)** - Nested cross-validation toolkit for scikit-learn, with integrated calibration, threshold optimization, and statistical comparison tools.
+> For a complete list, see my [Google Scholar](https://scholar.google.com/citations?user=MKHoGnQAAAAJ) profile.
 
-- **[CATS](https://github.com/Physics4MedicineLab/CATS)** - Compare Cas9 nucleases by detecting overlapping PAM sites and enabling allele-specific targeting of disease mutations, with ClinVar integration.
+- Rocchi, E. *et al.* [Combining mass spectrometry and machine learning models for predicting *K. pneumoniae* antimicrobial resistance](https://doi.org/10.1186/s12866-025-04657-2). *BMC Microbiology* (2026).
 
-- **[CAMISIM-BrokenStick](https://github.com/Physics4MedicineLab/CAMISIM-BrokenStick)** - Extension of `CAMISIM` to simulate metagenomic sequencing data using a broken stick model.
+- Bonazzetti, C., Rocchi, E. *et al.* [AI model to predict resistances in Gram-negative bloodstream infections](https://doi.org/10.1038/s41746-025-01696-x). *npj Digital Medicine* **8**, 319 (2025).
 
-- **[APOBECSeeker](https://github.com/Physics4MedicineLab/APOBECSeeker)** - Pipeline for identifying APOBEC-style mutations from multiple sequence alignment.
-
-## Selected Publications
-
-- Rocchi, E., Nicitra, E., Calvo, M., Cento, V., Peiretti, L., Asif, Z., Menchinelli, G., Posteraro, B., Sala, C., Colosimo, C., Cricca, M., Sambri, V., Sanguinetti, M., Castellani, G. & Stefani, S. [Combining mass spectrometry and machine learning models for predicting *Klebsiella pneumoniae* antimicrobial resistance: a multicenter experience from clinical isolates in Italy](https://doi.org/10.1186/s12866-025-04657-2). *BMC Microbiology* (2026).
-
-- Bonazzetti, C., Rocchi, E., Toschi, A., Derus, N.R., Sala, C., Pascale, R., Rinaldi, M., Campoli, C., Pasquini, Z.A.I., Tazza, B., Amicucci, A., Gatti, M., Ambretti, S., Viale, P., Castellani, G. & Giannella, M. [Artificial Intelligence model to predict resistances in Gram-negative bloodstream infections](https://doi.org/10.1038/s41746-025-01696-x). *npj Digital Medicine* **8**, 319 (2025).
-
-- Rocchi, E., Magnani, F., Castellani, G., Carusillo, A. & Tarozzi, M. [CATS: a bioinformatic tool for automated Cas9 nucleases activity comparison in clinically relevant contexts](https://doi.org/10.3389/fgeed.2025.1571023). *Frontiers in Genome Editing* **7**, 1571023 (2025).
-
-- De Pascali, A.M., Ingletto, L., Brandolini, M., Rocchi, E., Tarozzi, M., Turba, M.E., Casadio, R., Gentilini, F., Gatti, G., Dionisi, L., Colosimo, C., Guerra, M., Zannoli, S., Dirani, G., Montanari, M.S., Marzucco, A., Grumiro, L., Rossini, G., Lazzarotto, T., Cricca, M., Castellani, G., Sambri, V. & Scagliarini, A. [Understanding the evolutionary dynamics of Monkeypox virus through less explored pathways](https://doi.org/10.1038/s41598-025-11855-5). *Scientific Reports* **15**, 25849 (2025).
-
-
-## Organization
-
-I'm a member of [Physics4MedicineLab](https://github.com/Physics4MedicineLab), the Applied Physics group within the Department of Medicine at Alma Mater Studiorum - University of Bologna.
-
-## Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/ettore-rocchi/)
-- [University profile](https://www.unibo.it/sitoweb/ettore.rocchi3)
-- [Email](mailto:ettore.rocchi3@unibo.it)
+- Rocchi, E. *et al.* [CATS: automated Cas9 nucleases activity comparison in clinically relevant contexts](https://doi.org/10.3389/fgeed.2025.1571023). *Frontiers in Genome Editing* **7**, 1571023 (2025).
