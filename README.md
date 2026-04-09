@@ -2,7 +2,9 @@
 
 ## About me
 
-Physics background, biomedical mission. I'm a PhD student at the University of Bologna, where I build tools that help clinicians predict antimicrobial resistance, discover patient phenotypes, and make sense of high-dimensional omics data. My work spans MALDI-TOF mass spectrometry, multi-omics integration, and metagenomics, always with a focus on interpretability and clinical impact. Part of the [Physics4MedicineLab](https://github.com/Physics4MedicineLab) group and the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola Hospital.
+Physics background, biomedical mission.
+
+I'm a PhD researcher at the University of Bologna, where I develop computational methods to predict antimicrobial resistance, discover patient phenotypes, and make sense of high-dimensional omics data. My work spans MALDI-TOF mass spectrometry, multi-omics integration, and metagenomics, always with a focus on interpretability and clinical impact. Part of the [Physics4MedicineLab](https://github.com/Physics4MedicineLab) group and the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola Hospital.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ettore-rocchi/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=MKHoGnQAAAAJ)
@@ -41,13 +43,13 @@ Physics background, biomedical mission. I'm a PhD student at the University of B
 
 <p>
   <a href="https://github.com/EttoreRocchi/MaldiAMRKit">
-    <img src="https://socialify.git.ci/EttoreRocchi/MaldiAMRKit/image?description=1&language=1&stargazers=1&forks=1&pattern=Signal&theme=Light" width="300" alt="MaldiAMRKit" />
+    <img src="https://socialify.git.ci/EttoreRocchi/MaldiAMRKit/image?description=1&language=1&stargazers=1&forks=1&pattern=Signal&theme=Light" width="270" alt="MaldiAMRKit" />
   </a>
   <a href="https://github.com/EttoreRocchi/combatlearn">
-    <img src="https://socialify.git.ci/EttoreRocchi/combatlearn/image?description=1&language=1&stargazers=1&forks=1&pattern=Signal&theme=Light" width="300" alt="combatlearn" />
+    <img src="https://socialify.git.ci/EttoreRocchi/combatlearn/image?description=1&language=1&stargazers=1&forks=1&pattern=Signal&theme=Light" width="270" alt="combatlearn" />
   </a>
   <a href="https://github.com/EttoreRocchi/ResPredAI">
-    <img src="https://socialify.git.ci/EttoreRocchi/ResPredAI/image?description=1&language=1&stargazers=1&forks=1&pattern=Signal&theme=Light" width="300" alt="ResPredAI" />
+    <img src="https://socialify.git.ci/EttoreRocchi/ResPredAI/image?description=1&language=1&stargazers=1&forks=1&pattern=Signal&theme=Light" width="270" alt="ResPredAI" />
   </a>
 </p>
 
@@ -65,7 +67,7 @@ Physics background, biomedical mission. I'm a PhD student at the University of B
 
 ### Selected Publications
 
-> For a complete list, see my [Google Scholar](https://scholar.google.com/citations?user=MKHoGnQAAAAJ) profile.
+For a complete list, see my [Google Scholar](https://scholar.google.com/citations?user=MKHoGnQAAAAJ) profile.
 
 - Rocchi, E. *et al.* [Combining mass spectrometry and machine learning models for predicting *K. pneumoniae* antimicrobial resistance](https://doi.org/10.1186/s12866-025-04657-2). *BMC Microbiology* (2026).
 
