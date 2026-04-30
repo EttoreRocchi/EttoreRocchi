@@ -6,6 +6,7 @@ Physics background, biomedical mission.
 
 I'm a PhD researcher at the University of Bologna, where I develop computational methods to predict antimicrobial resistance, discover patient phenotypes, and make sense of high-dimensional omics data. My work spans MALDI-TOF mass spectrometry, multi-omics integration, and metagenomics, always with a focus on interpretability and clinical impact. Part of the [Physics4MedicineLab](https://github.com/Physics4MedicineLab) group and the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola Hospital.
 
+[![Website](https://img.shields.io/badge/Website-EttoreRocchi.github.io-2E7D32?style=flat&logo=githubpages&logoColor=white)](https://ettorerocchi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ettore-rocchi/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=MKHoGnQAAAAJ)
 [![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57220152522)
