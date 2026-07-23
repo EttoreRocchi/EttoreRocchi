@@ -4,11 +4,14 @@
 
 Physics background, biomedical mission.
 
-I'm a PhD researcher at the University of Bologna, where I develop computational methods to predict antimicrobial resistance, discover patient phenotypes, and make sense of high-dimensional omics data. My work spans MALDI-TOF mass spectrometry, multi-omics integration, and metagenomics, always with a focus on interpretability and clinical impact. Part of the [Physics4MedicineLab](https://github.com/Physics4MedicineLab) group and the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola Hospital.
+I'm a postdoctoral researcher at the University of Bologna, where I develop computational methods to predict antimicrobial resistance, discover patient phenotypes, and make sense of high-dimensional omics data. My work spans MALDI-TOF mass spectrometry, multi-omics integration, and metagenomics, always with a focus on interpretability and clinical impact. Part of the [Physics4MedicineLab](https://github.com/Physics4MedicineLab) group and the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola Hospital.
+
+PhD in Health and Technologies (University of Bologna, 2026), supervisor Prof. Gastone Castellani.
 
 [![Website](https://img.shields.io/badge/Website-EttoreRocchi.github.io-2E7D32?style=flat&logo=githubpages&logoColor=white)](https://ettorerocchi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ettore-rocchi/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=MKHoGnQAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7612--2819-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7612-2819)
 [![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57220152522)
 [![University](https://img.shields.io/badge/UniBO-Profile-A6192E?style=flat)](https://www.unibo.it/sitoweb/ettore.rocchi3)
 [![Email](https://img.shields.io/badge/Email-ettore.rocchi3%40unibo.it-grey?style=flat&logo=gmail&logoColor=white)](mailto:ettore.rocchi3@unibo.it)
@@ -58,42 +61,42 @@ Three sklearn-compatible packages that chain into an end-to-end clinical AMR pip
   <tbody>
     <tr>
       <td>
-        <b>Antimicrobial resistance prediction</b><br/>
-        <sub><i>MALDI-TOF mass spectrometry · supervised learning · deep neural networks</i></sub>
+        <b>AMR &amp; clinical machine learning</b><br/>
+        <sub><i>MALDI-TOF · supervised &amp; generative learning · cross-site harmonisation</i></sub>
       </td>
       <td>
-        Machine learning on mass spectra and clinical data to anticipate resistance phenotypes prior to culture-based diagnostics.<br/>
+        Machine learning on mass spectra and clinical data to anticipate antimicrobial resistance ahead of culture-based diagnostics, with cross-site harmonisation and generative modelling extending the pipeline beyond single-instrument settings.<br/>
         <sub>→ <a href="https://github.com/EttoreRocchi/MaldiSuite">MaldiSuite</a>, <a href="https://github.com/EttoreRocchi/ResPredAI">ResPredAI</a></sub>
       </td>
     </tr>
     <tr>
       <td>
-        <b>Multi-centre data harmonisation</b><br/>
-        <sub><i>Batch-effect correction · ComBat · batch-mixing diagnostics</i></sub>
+        <b>Infectious risk &amp; pathogen surveillance</b><br/>
+        <sub><i>patient phenotyping · survival &amp; multi-state models · metagenomic surveillance</i></sub>
       </td>
       <td>
-        Batch-effect correction methods for machine learning models on high-throughput data across instruments and clinical sites.<br/>
-        <sub>→ <a href="https://github.com/EttoreRocchi/MaldiBatchKit">MaldiBatchKit</a>, <a href="https://github.com/EttoreRocchi/combatlearn">combatlearn</a></sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Computational patient phenotyping</b><br/>
-        <sub><i>unsupervised clustering · survival analysis · multi-state modelling</i></sub>
-      </td>
-      <td>
-        Discovery of clinically meaningful subgroups from heterogeneous patient cohorts, with prognostic and trajectory modelling.<br/>
-        <sub>→ <a href="https://github.com/EttoreRocchi/phenocluster">phenocluster</a></sub>
+        Stratification of infectious risk in fragile populations such as transplant recipients, and surveillance of circulating pathogens through metagenomic monitoring and computational phenotyping.<br/>
+        <sub>→ <a href="https://github.com/EttoreRocchi/phenocluster">phenocluster</a>, <a href="https://github.com/Physics4MedicineLab/CAMISIM-BrokenStick">CAMISIM-BrokenStick</a></sub>
       </td>
     </tr>
     <tr>
       <td>
-        <b>Genomics and metagenomics analyses</b><br/>
-        <sub><i>microbial community networks · pathogen detection · structural and somatic variants · mutational signatures · CRISPR-Cas9 editing</i></sub>
+        <b>Computational genomics</b><br/>
+        <sub><i>structural variants · somatic calling · long-read sequencing</i></sub>
       </td>
       <td>
-        Network-based modelling of microbial communities for pathogen detection, characterisation of structural and somatic variants and of mutational signatures, with broader interests in computational tools for CRISPR-Cas9 genome editing.<br/>
-        <sub>→ <a href="https://github.com/Physics4MedicineLab/CATS">CATS</a>, <a href="https://github.com/Physics4MedicineLab/APOBECSeeker">APOBECSeeker</a>, <a href="https://github.com/Physics4MedicineLab/CAMISIM-BrokenStick">CAMISIM-BrokenStick</a></sub>
+        Discovery and interpretation of structural and somatic variants from short- and long-read sequencing, in clinically relevant genomic contexts.<br/>
+        <sub>→ <a href="https://github.com/Physics4MedicineLab/APOBECSeeker">APOBECSeeker</a>, <a href="https://github.com/Physics4MedicineLab/CATS">CATS</a></sub>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Computational methodologies</b><br/>
+        <sub><i>bioinformatic tools · open-source software · reproducible pipelines</i></sub>
+      </td>
+      <td>
+        Open-source tools and reusable methods built around specific biomedical questions, designed to be reproducible and well-documented.<br/>
+        <sub>→ <a href="https://github.com/EttoreRocchi/combatlearn">combatlearn</a>, <a href="https://github.com/EttoreRocchi/nestkit">nestkit</a>, <a href="https://github.com/EttoreRocchi/MaldiBatchKit">MaldiBatchKit</a></sub>
       </td>
     </tr>
   </tbody>
@@ -126,7 +129,7 @@ Three sklearn-compatible packages that chain into an end-to-end clinical AMR pip
 
 ### Selected Publications
 
-For a complete list, see my [Google Scholar](https://scholar.google.com/citations?user=MKHoGnQAAAAJ) profile.
+A curated list with BibTeX lives on [my website](https://ettorerocchi.github.io/publications.html); for the complete record, see my [Google Scholar](https://scholar.google.com/citations?user=MKHoGnQAAAAJ) profile.
 
 - Rocchi, E. *et al.* [Combining mass spectrometry and machine learning models for predicting *Klebsiella pneumoniae* antimicrobial resistance: a multicenter experience from clinical isolates in Italy](https://doi.org/10.1186/s12866-025-04657-2). *BMC Microbiology* (2026).
 
