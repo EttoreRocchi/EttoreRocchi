@@ -4,7 +4,7 @@
 
 Physics background, biomedical mission.
 
-I'm a postdoctoral researcher at the University of Bologna, where I develop computational methods to predict antimicrobial resistance, discover patient phenotypes, and make sense of high-dimensional omics data. My work spans MALDI-TOF mass spectrometry, multi-omics integration, and metagenomics, always with a focus on interpretability and clinical impact. Part of the [Physics4MedicineLab](https://github.com/Physics4MedicineLab) group and the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola Hospital.
+I'm a Health Researcher at IRCCS Sant'Orsola in Bologna, where I develop computational methods to predict antimicrobial resistance, discover patient phenotypes, and make sense of high-dimensional omics data. My work spans MALDI-TOF mass spectrometry, multi-omics integration, genomics, and metagenomics, always with a focus on interpretability and clinical impact. I work in the Computational Genomics Unit, part of the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola Hospital, and collaborate closely with Prof. Gastone Castellani's [Physics4MedicineLab](https://github.com/Physics4MedicineLab).
 
 PhD in Health and Technologies (University of Bologna, 2026), supervisor Prof. Gastone Castellani.
 
@@ -13,8 +13,7 @@ PhD in Health and Technologies (University of Bologna, 2026), supervisor Prof. G
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=MKHoGnQAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7612--2819-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7612-2819)
 [![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57220152522)
-[![University](https://img.shields.io/badge/UniBO-Profile-A6192E?style=flat)](https://www.unibo.it/sitoweb/ettore.rocchi3)
-[![Email](https://img.shields.io/badge/Email-ettore.rocchi3%40unibo.it-grey?style=flat&logo=gmail&logoColor=white)](mailto:ettore.rocchi3@unibo.it)
+[![Email](https://img.shields.io/badge/Email-ettore.rocchi%40aosp.bo.it-grey?style=flat&logo=gmail&logoColor=white)](mailto:ettore.rocchi@aosp.bo.it)
 
 ### GitHub Stats
 
