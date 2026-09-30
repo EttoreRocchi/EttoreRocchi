@@ -1,24 +1,22 @@
-# Ettore Rocchi
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Ettore Rocchi - Health Researcher at IRCCS Sant'Orsola. Physics background, biomedical mission.">
+</picture>
 
-## About me
-
-Physics background, biomedical mission.
+<p align="center">
+  <a href="https://ettorerocchi.github.io"><img src="https://img.shields.io/badge/Website-EttoreRocchi.github.io-2E7D32?style=flat&logo=githubpages&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/ettore-rocchi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://bsky.app/profile/ettorerocchi.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white" alt="Bluesky"></a>
+  <a href="mailto:ettore.rocchi@aosp.bo.it"><img src="https://img.shields.io/badge/Email-ettore.rocchi%40aosp.bo.it-grey?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <br>
+  <a href="https://scholar.google.com/citations?user=MKHoGnQAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0000-0002-7612-2819"><img src="https://img.shields.io/badge/ORCID-0000--0002--7612--2819-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57220152522"><img src="https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white" alt="Scopus"></a>
+</p>
 
 I'm a Health Researcher at IRCCS Sant'Orsola in Bologna, where I develop computational methods to predict antimicrobial resistance, discover patient phenotypes, and make sense of high-dimensional omics data. My work spans MALDI-TOF mass spectrometry, multi-omics integration, genomics, and metagenomics, always with a focus on interpretability and clinical impact. I work in the Computational Genomics Unit, part of the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola Hospital, and collaborate closely with Prof. Gastone Castellani's [Physics4MedicineLab](https://github.com/Physics4MedicineLab).
 
 PhD in Health and Technologies (University of Bologna, 2026), supervisor Prof. Gastone Castellani.
-
-[![Website](https://img.shields.io/badge/Website-EttoreRocchi.github.io-2E7D32?style=flat&logo=githubpages&logoColor=white)](https://ettorerocchi.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ettore-rocchi/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=MKHoGnQAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7612--2819-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7612-2819)
-[![Scopus](https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57220152522)
-[![Email](https://img.shields.io/badge/Email-ettore.rocchi%40aosp.bo.it-grey?style=flat&logo=gmail&logoColor=white)](mailto:ettore.rocchi@aosp.bo.it)
-
-### GitHub Stats
-
-[![GitHub followers](https://img.shields.io/github/followers/ettorerocchi?style=social)](https://github.com/ettorerocchi)
-[![GitHub stars](https://img.shields.io/github/stars/ettorerocchi?style=social)](https://github.com/ettorerocchi)
 
 ---
 
@@ -26,7 +24,7 @@ PhD in Health and Technologies (University of Bologna, 2026), supervisor Prof. G
 
 <div align="center">
   <a href="https://github.com/EttoreRocchi/MaldiSuite">
-    <img src="https://socialify.git.ci/EttoreRocchi/MaldiSuite/image?description=1&stargazers=1&forks=1&pattern=Circuit+Board&theme=Auto&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2FEttoreRocchi%2FMaldiSuite%2Fmain%2Fassets%2Fmaldi_suite_logo.png" width="270" alt="MaldiSuite" />
+    <img src="https://socialify.git.ci/EttoreRocchi/MaldiSuite/image?description=1&pattern=Circuit+Board&theme=Auto&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2FEttoreRocchi%2FMaldiSuite%2Fmain%2Fassets%2Fmaldi_suite_logo.png" width="270" alt="MaldiSuite" />
   </a>
 </div>
 
@@ -34,72 +32,57 @@ PhD in Health and Technologies (University of Bologna, 2026), supervisor Prof. G
 
 Three sklearn-compatible packages that chain into an end-to-end clinical AMR pipeline: preprocess with **MaldiAMRKit**, harmonise across batches/sites with **MaldiBatchKit**, classify with **MaldiDeepKit**.
 
+```bash
+pip install maldisuite   # MaldiAMRKit + MaldiBatchKit + MaldiDeepKit
+```
+
 <div align="center">
   <a href="https://github.com/EttoreRocchi/MaldiAMRKit">
-    <img src="https://socialify.git.ci/EttoreRocchi/MaldiAMRKit/image?description=1&stargazers=1&forks=1&pattern=Circuit+Board&theme=Auto&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2FEttoreRocchi%2FMaldiSuite%2Fmain%2Fassets%2Fmaldiamrkit_logo.png" width="270" alt="MaldiAMRKit" />
+    <img src="https://socialify.git.ci/EttoreRocchi/MaldiAMRKit/image?description=1&pattern=Circuit+Board&theme=Auto&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2FEttoreRocchi%2FMaldiSuite%2Fmain%2Fassets%2Fmaldiamrkit_logo.png" width="270" alt="MaldiAMRKit" />
   </a>
   <a href="https://github.com/EttoreRocchi/MaldiBatchKit">
-    <img src="https://socialify.git.ci/EttoreRocchi/MaldiBatchKit/image?description=1&stargazers=1&forks=1&pattern=Circuit+Board&theme=Auto&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2FEttoreRocchi%2FMaldiSuite%2Fmain%2Fassets%2Fmaldibatchkit_logo.png" width="270" alt="MaldiBatchKit" />
+    <img src="https://socialify.git.ci/EttoreRocchi/MaldiBatchKit/image?description=1&pattern=Circuit+Board&theme=Auto&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2FEttoreRocchi%2FMaldiSuite%2Fmain%2Fassets%2Fmaldibatchkit_logo.png" width="270" alt="MaldiBatchKit" />
   </a>
   <a href="https://github.com/EttoreRocchi/MaldiDeepKit">
-    <img src="https://socialify.git.ci/EttoreRocchi/MaldiDeepKit/image?description=1&stargazers=1&forks=1&pattern=Circuit+Board&theme=Auto&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2FEttoreRocchi%2FMaldiSuite%2Fmain%2Fassets%2Fmaldideepkit_logo.png" width="270" alt="MaldiDeepKit" />
+    <img src="https://socialify.git.ci/EttoreRocchi/MaldiDeepKit/image?description=1&pattern=Circuit+Board&theme=Auto&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2FEttoreRocchi%2FMaldiSuite%2Fmain%2Fassets%2Fmaldideepkit_logo.png" width="270" alt="MaldiDeepKit" />
   </a>
 </div>
 
+<p align="center">
+  <a href="https://pypi.org/project/maldiamrkit/"><img src="https://static.pepy.tech/personalized-badge/maldiamrkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=MaldiAMRKit" alt="MaldiAMRKit downloads"></a>
+  <a href="https://pypi.org/project/maldibatchkit/"><img src="https://static.pepy.tech/personalized-badge/maldibatchkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=MaldiBatchKit" alt="MaldiBatchKit downloads"></a>
+  <a href="https://pypi.org/project/maldideepkit/"><img src="https://static.pepy.tech/personalized-badge/maldideepkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=MaldiDeepKit" alt="MaldiDeepKit downloads"></a>
+</p>
+
 ---
 
-### What I Work On
+### Python Packages
 
-<table>
-  <thead>
-    <tr>
-      <th align="left">Research focus</th>
-      <th align="left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>AMR &amp; clinical machine learning</b><br/>
-        <sub><i>MALDI-TOF · supervised &amp; generative learning · cross-site harmonisation</i></sub>
-      </td>
-      <td>
-        Machine learning on mass spectra and clinical data to anticipate antimicrobial resistance ahead of culture-based diagnostics, with cross-site harmonisation and generative modelling extending the pipeline beyond single-instrument settings.<br/>
-        <sub>→ <a href="https://github.com/EttoreRocchi/MaldiSuite">MaldiSuite</a>, <a href="https://github.com/EttoreRocchi/ResPredAI">ResPredAI</a></sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Infectious risk &amp; pathogen surveillance</b><br/>
-        <sub><i>patient phenotyping · survival &amp; multi-state models · metagenomic surveillance</i></sub>
-      </td>
-      <td>
-        Stratification of infectious risk in fragile populations such as transplant recipients, and surveillance of circulating pathogens through metagenomic monitoring and computational phenotyping.<br/>
-        <sub>→ <a href="https://github.com/EttoreRocchi/phenocluster">phenocluster</a>, <a href="https://github.com/Physics4MedicineLab/CAMISIM-BrokenStick">CAMISIM-BrokenStick</a></sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Computational genomics</b><br/>
-        <sub><i>structural variants · somatic calling · long-read sequencing</i></sub>
-      </td>
-      <td>
-        Discovery and interpretation of structural and somatic variants from short- and long-read sequencing, in clinically relevant genomic contexts.<br/>
-        <sub>→ <a href="https://github.com/Physics4MedicineLab/APOBECSeeker">APOBECSeeker</a>, <a href="https://github.com/Physics4MedicineLab/CATS">CATS</a></sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Computational methodologies</b><br/>
-        <sub><i>bioinformatic tools · open-source software · reproducible pipelines</i></sub>
-      </td>
-      <td>
-        Open-source tools and reusable methods built around specific biomedical questions, designed to be reproducible and well-documented.<br/>
-        <sub>→ <a href="https://github.com/EttoreRocchi/combatlearn">combatlearn</a>, <a href="https://github.com/EttoreRocchi/nestkit">nestkit</a>, <a href="https://github.com/EttoreRocchi/MaldiBatchKit">MaldiBatchKit</a></sub>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Package | Description | PyPI | Downloads |
+|---------|-------------|------|-----------|
+| [combatlearn](https://github.com/EttoreRocchi/combatlearn) | Scikit-learn compatible ComBat batch-effect correction | [![PyPI](https://img.shields.io/pypi/v/combatlearn?style=flat&logo=pypi&logoColor=white&label=&color=3775A9)](https://pypi.org/project/combatlearn/) | ![combatlearn downloads](https://static.pepy.tech/personalized-badge/combatlearn?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads) |
+| [ResPredAI](https://github.com/EttoreRocchi/ResPredAI) | AI model to predict resistances in Gram-negative bloodstream infections | [![PyPI](https://img.shields.io/pypi/v/respredai?style=flat&logo=pypi&logoColor=white&label=&color=3775A9)](https://pypi.org/project/respredai/) | ![ResPredAI downloads](https://static.pepy.tech/personalized-badge/respredai?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads) |
+| [phenocluster](https://github.com/EttoreRocchi/phenocluster) | Unsupervised clinical phenotype discovery with survival and multistate modeling | [![PyPI](https://img.shields.io/pypi/v/phenocluster?style=flat&logo=pypi&logoColor=white&label=&color=3775A9)](https://pypi.org/project/phenocluster/) | ![phenocluster downloads](https://static.pepy.tech/personalized-badge/phenocluster?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads) |
+| [nestkit](https://github.com/EttoreRocchi/nestkit) | Nested cross-validation with calibration, threshold optimization, and statistical tests | [![PyPI](https://img.shields.io/pypi/v/nestkit?style=flat&logo=pypi&logoColor=white&label=&color=3775A9)](https://pypi.org/project/nestkit/) | ![nestkit downloads](https://static.pepy.tech/personalized-badge/nestkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads) |
+
+### Research Code
+
+| Project | Description |
+|---------|-------------|
+| [CATS](https://github.com/Physics4MedicineLab/CATS) | Automated Cas9 nuclease comparison with ClinVar integration |
+| [CAMISIM-BrokenStick](https://github.com/Physics4MedicineLab/CAMISIM-BrokenStick) | Broken stick model extension for metagenomic simulation |
+| [APOBECSeeker](https://github.com/Physics4MedicineLab/APOBECSeeker) | APOBEC-style mutation identification from multiple sequence alignment |
+
+---
+
+### Research Focus
+
+- **AMR & clinical machine learning** - MALDI-TOF, supervised & generative learning, cross-site harmonisation · [MaldiSuite](https://github.com/EttoreRocchi/MaldiSuite), [ResPredAI](https://github.com/EttoreRocchi/ResPredAI)
+- **Infectious risk & pathogen surveillance** - patient phenotyping, survival & multi-state models, metagenomic surveillance · [phenocluster](https://github.com/EttoreRocchi/phenocluster), [CAMISIM-BrokenStick](https://github.com/Physics4MedicineLab/CAMISIM-BrokenStick)
+- **Computational genomics** - structural variants, somatic calling, long-read sequencing · [APOBECSeeker](https://github.com/Physics4MedicineLab/APOBECSeeker), [CATS](https://github.com/Physics4MedicineLab/CATS)
+- **Computational methodologies** - open-source tools, reproducible pipelines · [combatlearn](https://github.com/EttoreRocchi/combatlearn), [nestkit](https://github.com/EttoreRocchi/nestkit), [MaldiBatchKit](https://github.com/EttoreRocchi/MaldiBatchKit)
+
+The full picture is on the [research page](https://ettorerocchi.github.io/research.html) of my website.
 
 ### Tech Stack
 
@@ -112,26 +95,8 @@ Three sklearn-compatible packages that chain into an end-to-end clinical AMR pip
 
 ---
 
-### Other Projects
+### Selected Publication
 
-| Project | Description |
-|---------|-------------|
-| [combatlearn](https://github.com/EttoreRocchi/combatlearn) | Scikit-learn compatible ComBat batch-effect correction |
-| [ResPredAI](https://github.com/EttoreRocchi/ResPredAI) | AI model to predict resistances in Gram-negative bloodstream infections |
-| [phenocluster](https://github.com/EttoreRocchi/phenocluster) | Unsupervised clinical phenotype discovery with survival and multistate modeling |
-| [CATS](https://github.com/Physics4MedicineLab/CATS) | Automated Cas9 nuclease comparison with ClinVar integration |
-| [CAMISIM-BrokenStick](https://github.com/Physics4MedicineLab/CAMISIM-BrokenStick) | Broken stick model extension for metagenomic simulation |
-| [APOBECSeeker](https://github.com/Physics4MedicineLab/APOBECSeeker) | APOBEC-style mutation identification from multiple sequence alignment |
-| [nestkit](https://github.com/EttoreRocchi/nestkit) | Nested cross-validation with calibration, threshold optimization, and statistical tests |
-
----
-
-### Selected Publications
+Bonazzetti, C., Rocchi, E. *et al.* [Artificial Intelligence model to predict resistances in Gram-negative bloodstream infections](https://doi.org/10.1038/s41746-025-01696-x). *npj Digital Medicine* **8**, 319 (2025). Code: [ResPredAI](https://github.com/EttoreRocchi/ResPredAI).
 
 A curated list with BibTeX lives on [my website](https://ettorerocchi.github.io/publications.html); for the complete record, see my [Google Scholar](https://scholar.google.com/citations?user=MKHoGnQAAAAJ) profile.
-
-- Rocchi, E. *et al.* [Combining mass spectrometry and machine learning models for predicting *Klebsiella pneumoniae* antimicrobial resistance: a multicenter experience from clinical isolates in Italy](https://doi.org/10.1186/s12866-025-04657-2). *BMC Microbiology* (2026).
-
-- Bonazzetti, C., Rocchi, E. *et al.* [Artificial Intelligence model to predict resistances in Gram-negative bloodstream infections](https://doi.org/10.1038/s41746-025-01696-x). *npj Digital Medicine* **8**, 319 (2025).
-
-- Rocchi, E. *et al.* [CATS: a bioinformatic tool for automated Cas9 nucleases activity comparison in clinically relevant contexts](https://doi.org/10.3389/fgeed.2025.1571023). *Frontiers in Genome Editing* **7**, 1571023 (2025).
