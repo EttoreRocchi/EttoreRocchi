@@ -36,23 +36,23 @@ Three sklearn-compatible packages that chain into an end-to-end clinical AMR pip
 pip install maldisuite   # MaldiAMRKit + MaldiBatchKit + MaldiDeepKit
 ```
 
-<div align="center">
-  <a href="https://github.com/EttoreRocchi/MaldiAMRKit">
-    <img src="https://raw.githubusercontent.com/EttoreRocchi/MaldiSuite/main/assets/maldiamrkit_logo.png" height="140" alt="MaldiAMRKit" />
-  </a>
-  <a href="https://github.com/EttoreRocchi/MaldiBatchKit">
-    <img src="https://raw.githubusercontent.com/EttoreRocchi/MaldiSuite/main/assets/maldibatchkit_logo.png" height="140" alt="MaldiBatchKit" />
-  </a>
-  <a href="https://github.com/EttoreRocchi/MaldiDeepKit">
-    <img src="https://raw.githubusercontent.com/EttoreRocchi/MaldiSuite/main/assets/maldideepkit_logo.png" height="140" alt="MaldiDeepKit" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://pypi.org/project/maldiamrkit/"><img src="https://static.pepy.tech/personalized-badge/maldiamrkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=MaldiAMRKit" alt="MaldiAMRKit downloads"></a>
-  <a href="https://pypi.org/project/maldibatchkit/"><img src="https://static.pepy.tech/personalized-badge/maldibatchkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=MaldiBatchKit" alt="MaldiBatchKit downloads"></a>
-  <a href="https://pypi.org/project/maldideepkit/"><img src="https://static.pepy.tech/personalized-badge/maldideepkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=MaldiDeepKit" alt="MaldiDeepKit downloads"></a>
-</p>
+<table align="center">
+  <tr>
+    <th><div align="center">Preprocess</div></th>
+    <th><div align="center">Harmonise</div></th>
+    <th><div align="center">Classify</div></th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/EttoreRocchi/MaldiAMRKit"><img src="assets/logo-maldiamrkit.png" height="160" alt="MaldiAMRKit" /></a></td>
+    <td align="center"><a href="https://github.com/EttoreRocchi/MaldiBatchKit"><img src="assets/logo-maldibatchkit.png" height="160" alt="MaldiBatchKit" /></a></td>
+    <td align="center"><a href="https://github.com/EttoreRocchi/MaldiDeepKit"><img src="assets/logo-maldideepkit.png" height="160" alt="MaldiDeepKit" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://pypi.org/project/maldiamrkit/"><img src="https://static.pepy.tech/personalized-badge/maldiamrkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads" alt="MaldiAMRKit downloads"></a></td>
+    <td align="center"><a href="https://pypi.org/project/maldibatchkit/"><img src="https://static.pepy.tech/personalized-badge/maldibatchkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads" alt="MaldiBatchKit downloads"></a></td>
+    <td align="center"><a href="https://pypi.org/project/maldideepkit/"><img src="https://static.pepy.tech/personalized-badge/maldideepkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads" alt="MaldiDeepKit downloads"></a></td>
+  </tr>
+</table>
 
 ---
 
