@@ -24,7 +24,7 @@ PhD in Health and Technologies (University of Bologna, 2026), supervisor Prof. G
 
 <div align="center">
   <a href="https://github.com/EttoreRocchi/MaldiSuite">
-    <img src="https://socialify.git.ci/EttoreRocchi/MaldiSuite/image?description=1&pattern=Circuit+Board&theme=Auto&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2FEttoreRocchi%2FMaldiSuite%2Fmain%2Fassets%2Fmaldi_suite_logo.png" width="270" alt="MaldiSuite" />
+    <img src="https://raw.githubusercontent.com/EttoreRocchi/MaldiSuite/main/assets/maldi_suite_logo.png" width="420" alt="MaldiSuite" />
   </a>
 </div>
 
@@ -38,13 +38,13 @@ pip install maldisuite   # MaldiAMRKit + MaldiBatchKit + MaldiDeepKit
 
 <div align="center">
   <a href="https://github.com/EttoreRocchi/MaldiAMRKit">
-    <img src="https://socialify.git.ci/EttoreRocchi/MaldiAMRKit/image?description=1&pattern=Circuit+Board&theme=Auto&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2FEttoreRocchi%2FMaldiSuite%2Fmain%2Fassets%2Fmaldiamrkit_logo.png" width="270" alt="MaldiAMRKit" />
+    <img src="https://raw.githubusercontent.com/EttoreRocchi/MaldiSuite/main/assets/maldiamrkit_logo.png" height="140" alt="MaldiAMRKit" />
   </a>
   <a href="https://github.com/EttoreRocchi/MaldiBatchKit">
-    <img src="https://socialify.git.ci/EttoreRocchi/MaldiBatchKit/image?description=1&pattern=Circuit+Board&theme=Auto&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2FEttoreRocchi%2FMaldiSuite%2Fmain%2Fassets%2Fmaldibatchkit_logo.png" width="270" alt="MaldiBatchKit" />
+    <img src="https://raw.githubusercontent.com/EttoreRocchi/MaldiSuite/main/assets/maldibatchkit_logo.png" height="140" alt="MaldiBatchKit" />
   </a>
   <a href="https://github.com/EttoreRocchi/MaldiDeepKit">
-    <img src="https://socialify.git.ci/EttoreRocchi/MaldiDeepKit/image?description=1&pattern=Circuit+Board&theme=Auto&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2FEttoreRocchi%2FMaldiSuite%2Fmain%2Fassets%2Fmaldideepkit_logo.png" width="270" alt="MaldiDeepKit" />
+    <img src="https://raw.githubusercontent.com/EttoreRocchi/MaldiSuite/main/assets/maldideepkit_logo.png" height="140" alt="MaldiDeepKit" />
   </a>
 </div>
 
