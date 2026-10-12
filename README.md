@@ -14,6 +14,15 @@
   <a href="https://www.scopus.com/authid/detail.uri?authorId=57220152522"><img src="https://img.shields.io/badge/Scopus-E9711C?style=flat&logo=Scopus&logoColor=white" alt="Scopus"></a>
 </p>
 
+<p align="center">
+  <a href="https://ettorerocchi.github.io/research.html">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3500&pause=1200&color=E3A86A&center=true&vCenter=true&width=640&height=40&lines=From+mass+spectra+to+resistance+predictions;From+patient+trajectories+to+pathogen+spread;From+raw+reads+to+clinically+usable+variants;From+clinical+needs+to+open-source+frameworks">
+      <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3500&pause=1200&color=9E5622&center=true&vCenter=true&width=640&height=40&lines=From+mass+spectra+to+resistance+predictions;From+patient+trajectories+to+pathogen+spread;From+raw+reads+to+clinically+usable+variants;From+clinical+needs+to+open-source+frameworks" alt="From mass spectra to resistance predictions, from patient trajectories to pathogen spread, from raw reads to clinically usable variants, from clinical needs to open-source frameworks">
+    </picture>
+  </a>
+</p>
+
 I'm a Health Researcher at IRCCS Sant'Orsola in Bologna, where I develop computational methods to predict antimicrobial resistance, discover patient phenotypes, and make sense of high-dimensional omics data. My work spans MALDI-TOF mass spectrometry, multi-omics integration, genomics, and metagenomics, always with a focus on interpretability and clinical impact. I work in the Computational Genomics Unit, part of the Multi-Omics and Health-Care Data Analytics Unit at Sant'Orsola Hospital, and collaborate closely with Prof. Gastone Castellani's [Physics4MedicineLab](https://github.com/Physics4MedicineLab).
 
 PhD in Health and Technologies (University of Bologna, 2026), supervisor Prof. Gastone Castellani.
@@ -48,9 +57,21 @@ pip install maldisuite   # MaldiAMRKit + MaldiBatchKit + MaldiDeepKit
     <td align="center"><a href="https://github.com/EttoreRocchi/MaldiDeepKit"><img src="assets/logo-maldideepkit.png" height="160" alt="MaldiDeepKit" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://pypi.org/project/maldiamrkit/"><img src="https://static.pepy.tech/personalized-badge/maldiamrkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads" alt="MaldiAMRKit downloads"></a></td>
-    <td align="center"><a href="https://pypi.org/project/maldibatchkit/"><img src="https://static.pepy.tech/personalized-badge/maldibatchkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads" alt="MaldiBatchKit downloads"></a></td>
-    <td align="center"><a href="https://pypi.org/project/maldideepkit/"><img src="https://static.pepy.tech/personalized-badge/maldideepkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads" alt="MaldiDeepKit downloads"></a></td>
+    <td align="center">
+      <a href="https://maldiamrkit.readthedocs.io/"><img src="https://img.shields.io/readthedocs/maldiamrkit?style=flat&logo=readthedocs&logoColor=white" alt="MaldiAMRKit docs"></a><br>
+      <a href="https://github.com/EttoreRocchi/MaldiAMRKit/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/EttoreRocchi/MaldiAMRKit/ci.yml?branch=main&style=flat&logo=githubactions&logoColor=white&label=CI" alt="MaldiAMRKit CI"></a><br>
+      <a href="https://codecov.io/github/EttoreRocchi/MaldiAMRKit"><img src="https://img.shields.io/codecov/c/github/EttoreRocchi/MaldiAMRKit?style=flat&logo=codecov&logoColor=white" alt="MaldiAMRKit coverage"></a>
+    </td>
+    <td align="center">
+      <a href="https://maldibatchkit.readthedocs.io/"><img src="https://img.shields.io/readthedocs/maldibatchkit?style=flat&logo=readthedocs&logoColor=white" alt="MaldiBatchKit docs"></a><br>
+      <a href="https://github.com/EttoreRocchi/MaldiBatchKit/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/EttoreRocchi/MaldiBatchKit/ci.yml?branch=main&style=flat&logo=githubactions&logoColor=white&label=CI" alt="MaldiBatchKit CI"></a><br>
+      <a href="https://codecov.io/github/EttoreRocchi/MaldiBatchKit"><img src="https://img.shields.io/codecov/c/github/EttoreRocchi/MaldiBatchKit?style=flat&logo=codecov&logoColor=white" alt="MaldiBatchKit coverage"></a>
+    </td>
+    <td align="center">
+      <a href="https://maldideepkit.readthedocs.io/"><img src="https://img.shields.io/readthedocs/maldideepkit?style=flat&logo=readthedocs&logoColor=white" alt="MaldiDeepKit docs"></a><br>
+      <a href="https://github.com/EttoreRocchi/MaldiDeepKit/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/EttoreRocchi/MaldiDeepKit/ci.yml?branch=main&style=flat&logo=githubactions&logoColor=white&label=CI" alt="MaldiDeepKit CI"></a><br>
+      <a href="https://codecov.io/github/EttoreRocchi/MaldiDeepKit"><img src="https://img.shields.io/codecov/c/github/EttoreRocchi/MaldiDeepKit?style=flat&logo=codecov&logoColor=white" alt="MaldiDeepKit coverage"></a>
+    </td>
   </tr>
 </table>
 
@@ -58,12 +79,12 @@ pip install maldisuite   # MaldiAMRKit + MaldiBatchKit + MaldiDeepKit
 
 ### Python Packages
 
-| Package | Description | PyPI | Downloads |
-|---------|-------------|------|-----------|
-| [combatlearn](https://github.com/EttoreRocchi/combatlearn) | Scikit-learn compatible ComBat batch-effect correction | [![PyPI](https://img.shields.io/pypi/v/combatlearn?style=flat&logo=pypi&logoColor=white&label=&color=3775A9)](https://pypi.org/project/combatlearn/) | ![combatlearn downloads](https://static.pepy.tech/personalized-badge/combatlearn?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads) |
-| [ResPredAI](https://github.com/EttoreRocchi/ResPredAI) | AI model to predict resistances in Gram-negative bloodstream infections | [![PyPI](https://img.shields.io/pypi/v/respredai?style=flat&logo=pypi&logoColor=white&label=&color=3775A9)](https://pypi.org/project/respredai/) | ![ResPredAI downloads](https://static.pepy.tech/personalized-badge/respredai?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads) |
-| [phenocluster](https://github.com/EttoreRocchi/phenocluster) | Unsupervised clinical phenotype discovery with survival and multistate modeling | [![PyPI](https://img.shields.io/pypi/v/phenocluster?style=flat&logo=pypi&logoColor=white&label=&color=3775A9)](https://pypi.org/project/phenocluster/) | ![phenocluster downloads](https://static.pepy.tech/personalized-badge/phenocluster?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads) |
-| [nestkit](https://github.com/EttoreRocchi/nestkit) | Nested cross-validation with calibration, threshold optimization, and statistical tests | [![PyPI](https://img.shields.io/pypi/v/nestkit?style=flat&logo=pypi&logoColor=white&label=&color=3775A9)](https://pypi.org/project/nestkit/) | ![nestkit downloads](https://static.pepy.tech/personalized-badge/nestkit?period=total&units=international_system&left_color=grey&right_color=blue&left_text=downloads) |
+| Package | Description | PyPI |
+|---------|-------------|------|
+| [combatlearn](https://github.com/EttoreRocchi/combatlearn) | Scikit-learn compatible ComBat batch-effect correction | [![PyPI](https://img.shields.io/pypi/v/combatlearn?style=flat&logo=pypi&logoColor=white&label=&color=3775A9)](https://pypi.org/project/combatlearn/) |
+| [ResPredAI](https://github.com/EttoreRocchi/ResPredAI) | AI model to predict resistances in Gram-negative bloodstream infections | [![PyPI](https://img.shields.io/pypi/v/respredai?style=flat&logo=pypi&logoColor=white&label=&color=3775A9)](https://pypi.org/project/respredai/) |
+| [phenocluster](https://github.com/EttoreRocchi/phenocluster) | Unsupervised clinical phenotype discovery with survival and multistate modeling | [![PyPI](https://img.shields.io/pypi/v/phenocluster?style=flat&logo=pypi&logoColor=white&label=&color=3775A9)](https://pypi.org/project/phenocluster/) |
+| [nestkit](https://github.com/EttoreRocchi/nestkit) | Nested cross-validation with calibration, threshold optimization, and statistical tests | [![PyPI](https://img.shields.io/pypi/v/nestkit?style=flat&logo=pypi&logoColor=white&label=&color=3775A9)](https://pypi.org/project/nestkit/) |
 
 ### Research Code
 
@@ -72,6 +93,16 @@ pip install maldisuite   # MaldiAMRKit + MaldiBatchKit + MaldiDeepKit
 | [CATS](https://github.com/Physics4MedicineLab/CATS) | Automated Cas9 nuclease comparison with ClinVar integration |
 | [CAMISIM-BrokenStick](https://github.com/Physics4MedicineLab/CAMISIM-BrokenStick) | Broken stick model extension for metagenomic simulation |
 | [APOBECSeeker](https://github.com/Physics4MedicineLab/APOBECSeeker) | APOBEC-style mutation identification from multiple sequence alignment |
+
+### Latest Releases
+
+<!-- LATEST-RELEASES:START -->
+- [**ResPredAI** v1.9.4](https://github.com/EttoreRocchi/ResPredAI/releases/tag/v1.9.4) - 2026-09-30
+- [**nestkit** v0.3.0](https://github.com/EttoreRocchi/nestkit/releases/tag/v0.3.0) - 2026-09-29
+- [**phenocluster** v0.4.0](https://github.com/EttoreRocchi/phenocluster/releases/tag/v0.4.0) - 2026-09-21
+- [**MaldiSuite** v0.2.0](https://github.com/EttoreRocchi/MaldiSuite/releases/tag/v0.2.0) - 2026-09-21
+- [**MaldiAMRKit** v0.20.0](https://github.com/EttoreRocchi/MaldiAMRKit/releases/tag/v0.20.0) - 2026-09-18
+<!-- LATEST-RELEASES:END -->
 
 ---
 
