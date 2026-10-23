@@ -97,11 +97,11 @@ pip install maldisuite   # MaldiAMRKit + MaldiBatchKit + MaldiDeepKit
 ### Latest Releases
 
 <!-- LATEST-RELEASES:START -->
+- [**MaldiAMRKit** v0.22.0](https://github.com/EttoreRocchi/MaldiAMRKit/releases/tag/v0.22.0) - 2026-10-22
 - [**MaldiAMRKit** v0.21.0](https://github.com/EttoreRocchi/MaldiAMRKit/releases/tag/v0.21.0) - 2026-10-19
 - [**ResPredAI** v1.9.4](https://github.com/EttoreRocchi/ResPredAI/releases/tag/v1.9.4) - 2026-09-30
 - [**nestkit** v0.3.0](https://github.com/EttoreRocchi/nestkit/releases/tag/v0.3.0) - 2026-09-29
 - [**phenocluster** v0.4.0](https://github.com/EttoreRocchi/phenocluster/releases/tag/v0.4.0) - 2026-09-21
-- [**MaldiSuite** v0.2.0](https://github.com/EttoreRocchi/MaldiSuite/releases/tag/v0.2.0) - 2026-09-21
 <!-- LATEST-RELEASES:END -->
 
 ---
