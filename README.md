@@ -39,7 +39,7 @@ PhD in Health and Technologies (University of Bologna, 2026), supervisor Prof. G
 
 > **[MaldiSuite](https://github.com/EttoreRocchi/MaldiSuite)** - a Python ecosystem for MALDI-TOF spectral processing and analysis in antimicrobial resistance research. Visit the [MaldiSuite website](https://ettorerocchi.github.io/MaldiSuite/).
 
-Three sklearn-compatible packages that chain into an end-to-end clinical AMR pipeline: preprocess with **MaldiAMRKit**, harmonise across batches/sites with **MaldiBatchKit**, classify with **MaldiDeepKit**.
+Three sklearn-compatible packages, each usable on its own: preprocess and evaluate spectra with **MaldiAMRKit**, harmonise across batches and sites with **MaldiBatchKit**, classify with **MaldiDeepKit**. They also combine in a single pipeline.
 
 ```bash
 pip install maldisuite   # MaldiAMRKit + MaldiBatchKit + MaldiDeepKit
