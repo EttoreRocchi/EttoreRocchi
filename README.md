@@ -97,11 +97,11 @@ pip install maldisuite   # MaldiAMRKit + MaldiBatchKit + MaldiDeepKit
 ### Latest Releases
 
 <!-- LATEST-RELEASES:START -->
+- [**MaldiAMRKit** v0.22.3](https://github.com/EttoreRocchi/MaldiAMRKit/releases/tag/v0.22.3) - 2026-11-13
 - [**MaldiSuite** v0.4.0](https://github.com/EttoreRocchi/MaldiSuite/releases/tag/v0.4.0) - 2026-11-10
 - [**MaldiDeepKit** v0.4.0](https://github.com/EttoreRocchi/MaldiDeepKit/releases/tag/v0.4.0) - 2026-11-10
 - [**MaldiAMRKit** v0.22.2](https://github.com/EttoreRocchi/MaldiAMRKit/releases/tag/v0.22.2) - 2026-11-10
 - [**MaldiBatchKit** v0.2.2](https://github.com/EttoreRocchi/MaldiBatchKit/releases/tag/v0.2.2) - 2026-11-10
-- [**MaldiBatchKit** v0.2.1](https://github.com/EttoreRocchi/MaldiBatchKit/releases/tag/v0.2.1) - 2026-11-06
 <!-- LATEST-RELEASES:END -->
 
 ---
